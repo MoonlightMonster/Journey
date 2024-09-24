@@ -1,4 +1,4 @@
-# 旅途 Journey
+# Journey 旅途
 ### （The following translations are all from Baidu Machine Translation）
 
 ## 1. Design the background and intent of this game
